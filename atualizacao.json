@@ -1,8 +1,8 @@
 {
-    "versao":  "4.3.0",
+    "versao":  "4.3.1",
     "data":  "2026-11-02",
-    "notas":  "Novas Atualizações",
-    "url":  "https://github.com/farragonilucas-creator/conectfood-releases/releases/download/v4.3.0/ConectFOOD-Servidor-4.3.0.msi",
-    "sha256":  "4cedd546a7a75345d57c5ad3d40b6beb3d8c32cfaa15bbc461fefc9660d2e3a1",
+    "notas":  "conserto",
+    "url":  "https://github.com/farragonilucas-creator/conectfood-releases/releases/download/v4.3.1/ConectFOOD-Servidor-4.3.1.msi",
+    "sha256":  "3aad94ab177470a33c9ed5ffa690e3e70d906ae1e174f1b3bf96ea81f8c68f35",
     "tamanho":  42868749
 }
