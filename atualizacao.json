@@ -1,0 +1,8 @@
+{
+    "versao":  "4.2.0",
+    "data":  "2026-11-02",
+    "notas":  "Login ConectFOOD. Contagem e porcionamento leem por leitor de mao. Atualizacao automatica.",
+    "url":  "https://github.com/farragonilucas-creator/conectfood-releases/releases/download/v4.2.0/ConectFOOD-Servidor-4.2.0.msi",
+    "sha256":  "9551bab964a8f86c16061e4b509228a7c17c221e43909d810586bd211d272975",
+    "tamanho":  42856238
+}
