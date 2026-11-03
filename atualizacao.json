@@ -1,8 +1,8 @@
 {
-    "versao":  "4.5.0",
+    "versao":  "4.5.2",
     "data":  "2026-11-03",
-    "notas":  "Impressora",
-    "url":  "https://github.com/farragonilucas-creator/conectfood-releases/releases/download/v4.5.0/ConectFOOD-Servidor-4.5.0.msi",
-    "sha256":  "662c0509577e6bea6a9ef553d3b3c5392817c2ad89d75c4554471895e6a1cda8",
-    "tamanho":  42877018
+    "notas":  "imp",
+    "url":  "https://github.com/farragonilucas-creator/conectfood-releases/releases/download/v4.5.2/ConectFOOD-Servidor-4.5.2.msi",
+    "sha256":  "eaf0ed80d8a08990306f13bb87ba5c1e42171a5e598d7e6e8e9b93077186ae0a",
+    "tamanho":  42877385
 }
